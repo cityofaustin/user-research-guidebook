@@ -4,7 +4,7 @@
 * [Research & Recruitment Guiding Principles](untitled.md)
 * [Recruitment Strategy](recruitment-strategy.md)
 * [Recruitment & Screening Document \(DRAFT\)](recruitment-process-and-timeline.md)
-* [Compensation Guidelines](untitled-1.md)
+* [Compensation Guidelines](compensation-guidelines.md)
 * [Anonymity Standards](anonymity-standards.md)
 * [Location \(DRAFT\)](location.md)
 * [Scheduling for Researchers](scheduling.md)
@@ -29,4 +29,8 @@
 
 * [Testing Content \(DRAFT\)](odd-research-methods/testing-content-draft.md)
 * [Testing translated content \(DRAFT\)](odd-research-methods/language-user-research-and-testing.md)
+
+## Available Resources <a id="available-resources-1"></a>
+
+* [Untitled](available-resources-1/untitled.md)
 
