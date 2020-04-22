@@ -4,7 +4,7 @@ description: >-
   Austin's Office of Design and Delivery.
 ---
 
-# User Research at ODD
+# User Research at the City of Austin
 
 In this guide we walk you through the processes and standards that we have established for involving residents in our work through user and design research. This guide has a focus on recruiting and coordinating user research with residents.
 

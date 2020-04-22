@@ -1,6 +1,6 @@
 # Table of contents
 
-* [User Research at ODD](README.md)
+* [User Research at the City of Austin](README.md)
 * [Research & Recruitment Guiding Principles](untitled.md)
 * [Recruitment Strategy](recruitment-strategy.md)
 * [Recruitment & Screening Document \(DRAFT\)](recruitment-process-and-timeline.md)
@@ -31,6 +31,4 @@
 * [Testing translated content \(DRAFT\)](odd-research-methods/language-user-research-and-testing.md)
 
 ## Available Resources <a id="available-resources-1"></a>
-
-* [Untitled](available-resources-1/untitled.md)
 

@@ -34,9 +34,12 @@ When we document any type of research \(user interview, observation or usability
 
 ## Collecting photos and video
 
-Collecting photo and video is an important part of the work we do. 
+Collecting photo and video is an important part of the work we do. Photos taken during user research should be done with the following standards:  
 
 
+* Participants should be asked for consent before _**any**_ photo is taken.
+* Photos should not include any part of the participants face and should not reveal and unique identifiers about the participant.
+* Photos should be used outside of the project sparingly and with good judgement
 
 
 
