@@ -27,6 +27,10 @@
 
 ## ODD Research Methods
 
+* [Observations \(DRAFT\)](odd-research-methods/observations-draft.md)
+* [Talking to people \(DRAFT\)](odd-research-methods/talking-to-people-draft.md)
+* [Workshops with stakeholders \(DRAFT\)](odd-research-methods/workshops-with-stakeholders-draft.md)
+* [Usability testing \(DRAFT\)](odd-research-methods/usability-testing-draft.md)
 * [Testing Content \(DRAFT\)](odd-research-methods/testing-content-draft.md)
 * [Testing translated content \(DRAFT\)](odd-research-methods/language-user-research-and-testing.md)
 
