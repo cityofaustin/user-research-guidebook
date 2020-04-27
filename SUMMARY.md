@@ -24,6 +24,7 @@
 
 * [What we do and why \(in plain language\) \(DRAFT\)](media-blurbs/what-we-do-and-why-in-plain-language.md)
 * [Preparing for your research session](what-to-take-to-my-research-session.md)
+* [Preparing for your remote research session\(Draft\)](preparing-for-your-remote-research-session-draft.md)
 
 ## ODD Research Methods
 
