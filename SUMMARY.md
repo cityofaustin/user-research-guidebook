@@ -1,44 +1,36 @@
 # Table of contents
 
 * [User Research at the City of Austin](README.md)
-* [This guide is for you if you....(DRAFT)](this-guide-is-for-you-if-you....-draft.md)
-* [User research, Why do it? (DRAFT)](user-research-why-do-it-draft.md)
-* [User Centered Testing Case Studies (DRAFT)](user-centered-testing-case-studies-draft.md)
-
-## RESEARCH PLANNING
-
-* [Scheduling for Researchers](research-planning/scheduling.md)
-
-## RECRUITING
-
-* [Research & Recruitment Guiding Principles](recruiting/untitled.md)
-* [Recruitment Strategy](recruiting/recruitment-strategy.md)
-* [Recruitment & Screening Document (DRAFT)](recruiting/recruitment-process-and-timeline.md)
-* [General Recruitment Screener](recruiting/general-recruitment.md)
-* [Anonymity Standards](recruiting/anonymity-standards.md)
-* [Recruiting based on personas (DRAFT)](recruiting/recruiting-based-on-personas.md)
-* [Location (DRAFT)](recruiting/location.md)
-
-## Compensation
-
-* [Compensation Guidelines](compensation/compensation-guidelines.md)
-* [Participant Consent & Compensation Agreements](compensation/participant-consent.md)
-
-## Participant Communication & Templates <a href="#templates" id="templates"></a>
-
-* [Reminder of Research Session (DRAFT)](templates/reminder-of-research-session.md)
-* [Post Research Follow-up & Evangalism](templates/post-research-follow-up.md)
-* [Scheduling Research Session](templates/scheduling-research-session.md)
-* [Confirmation of Scheduled Session](templates/confirmation-of-scheduled-session.md)
-
-## The City of Austin Research Methods
-
-* [Observations (DRAFT)](the-city-of-austin-research-methods/observations-draft.md)
-* [Talking to people (DRAFT)](the-city-of-austin-research-methods/talking-to-people-draft.md)
-* [Workshops with stakeholders (DRAFT)](the-city-of-austin-research-methods/workshops-with-stakeholders-draft.md)
-* [Usability testing (DRAFT)](the-city-of-austin-research-methods/usability-testing-draft.md)
-* [Testing Content (DRAFT)](the-city-of-austin-research-methods/testing-content-draft.md)
-* [Testing translated content (DRAFT)](the-city-of-austin-research-methods/language-user-research-and-testing.md)
+  * [This guide is for you if you....(DRAFT)](readme/this-guide-is-for-you-if-you....-draft.md)
+  * [User research, Why do it? (DRAFT)](readme/user-research-why-do-it-draft.md)
+  * [User Centered Testing Case Studies (DRAFT)](readme/user-centered-testing-case-studies-draft.md)
+* [Research Planning (DRAFT)](research-planning-draft/README.md)
+  * [Create a research plan (DRAFT)](research-planning-draft/create-a-research-plan-draft.md)
+  * [Scheduling for researchers](research-planning-draft/scheduling.md)
+* [Recruiting (Draft)](recruiting-draft/README.md)
+  * [Research & Recruitment Guiding Principles](recruiting-draft/untitled.md)
+  * [Recruitment Strategy](recruiting-draft/recruitment-strategy.md)
+  * [Recruitment & Screening Document (DRAFT)](recruiting-draft/recruitment-process-and-timeline.md)
+  * [General Recruitment Screener](recruiting-draft/general-recruitment.md)
+  * [Anonymity Standards](recruiting-draft/anonymity-standards.md)
+  * [Recruiting based on personas (DRAFT)](recruiting-draft/recruiting-based-on-personas.md)
+  * [Location (DRAFT)](recruiting-draft/location.md)
+* [Compensation Guidelines](compensation-guidelines/README.md)
+  * [Participant Consent & Compensation Agreements](compensation-guidelines/participant-consent.md)
+* [Participant Communication (Draft)](participant-communication-draft/README.md)
+  * [Post Research Follow-up & Evangalism](participant-communication-draft/post-research-follow-up.md)
+  * [Reminder of Research Session (DRAFT)](participant-communication-draft/reminder-of-research-session.md)
+  * [Scheduling Research Session](participant-communication-draft/scheduling-research-session.md)
+  * [Confirmation of Scheduled Session](participant-communication-draft/confirmation-of-scheduled-session.md)
+* [Research methods (DRAFT)](research-methods-draft/README.md)
+  * [Picking a Test Method](research-methods-draft/picking-a-test-method.md)
+  * [Observations (DRAFT)](research-methods-draft/observations-draft.md)
+  * [Talking to people (DRAFT)](research-methods-draft/talking-to-people-draft.md)
+  * [Workshops with stakeholders (DRAFT)](research-methods-draft/workshops-with-stakeholders-draft.md)
+  * [Usability testing (DRAFT)](research-methods-draft/usability-testing-draft.md)
+  * [Testing Content (DRAFT)](research-methods-draft/testing-content-draft.md)
+  * [Testing translated content (DRAFT)](research-methods-draft/language-user-research-and-testing.md)
+  * [Research Etiquette](research-methods-draft/research-etiquette.md)
 
 ## Media Blurbs
 
