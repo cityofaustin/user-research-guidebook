@@ -1,4 +1,10 @@
-# Research etiquette(DRAFT)
+---
+description: >-
+  Below are guidelines that will help the research process run more smoothly for
+  you and the participant.
+---
+
+# Research ethics and etiquette(DRAFT)
 
 ## Keep an open mind
 

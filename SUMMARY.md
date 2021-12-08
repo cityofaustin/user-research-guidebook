@@ -7,6 +7,7 @@
 * [Research Planning (DRAFT)](research-planning-draft/README.md)
   * [Create a research plan (DRAFT)](research-planning-draft/create-a-research-plan-draft.md)
   * [Scheduling for researchers](research-planning/scheduling.md)
+* [Research ethics and etiquette(DRAFT)](research-ethics-and-etiquette-draft.md)
 * [Recruiting (Draft)](recruiting-draft/README.md)
   * [Research & Recruitment Guiding Principles](recruiting/untitled.md)
   * [Recruitment Strategy](recruiting/recruitment-strategy.md)
@@ -30,7 +31,6 @@
   * [Usability testing (DRAFT)](the-city-of-austin-research-methods/usability-testing-draft.md)
   * [Testing Content (DRAFT)](the-city-of-austin-research-methods/testing-content-draft.md)
   * [Testing translated content (DRAFT)](the-city-of-austin-research-methods/language-user-research-and-testing.md)
-  * [Research etiquette(DRAFT)](research-methods-draft/research-etiquette-draft.md)
 
 ## Media Blurbs
 
