@@ -1,2 +1,0 @@
-# Workshops with stakeholders \(DRAFT\)
-

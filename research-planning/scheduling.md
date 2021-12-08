@@ -9,7 +9,7 @@ description: >-
 
 #### Step 1
 
-Before scheduling research sessions with participants be sure you have a clear understanding of the timeframe and requirements of the research. This is usually documented in a [Recruitment & Screening Document](../recruiting-draft/recruitment-process-and-timeline.md).
+Before scheduling research sessions with participants be sure you have a clear understanding of the timeframe and requirements of the research. This is usually documented in a [Recruitment & Screening Document](../recruiting/recruitment-process-and-timeline.md).
 
 #### Step 2
 
@@ -27,7 +27,7 @@ When the research time availability is determined, be sure to hold that time on 
 
 #### Step 4
 
-Offer those times to all the participants who responded with interest. See how we offer these times to residents by looking at our [Scheduling Research Session](../participant-communication-draft/scheduling-research-session.md) communication template.
+Offer those times to all the participants who responded with interest. See how we offer these times to residents by looking at our [Scheduling Research Session](../templates/scheduling-research-session.md) communication template.
 
 #### Step 5
 

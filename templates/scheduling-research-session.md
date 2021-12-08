@@ -8,7 +8,7 @@ description: This is a template for scheduling a research session.
 >
 > Hi Lauren,
 >
-> I am Kristin Taylor, a user researcher at the City of Austin. I am reaching out to you because you recently signed up to help us test the new Office of Police Oversight form. 
+> I am Kristin Taylor, a user researcher at the City of Austin. I am reaching out to you because you recently signed up to help us test the new Office of Police Oversight form.
 >
 > We would love to schedule a time to test the form with you next week. Please let me know if any of these times work for you. A session can start at any of the following times and lasts about an hour.
 >
@@ -27,7 +27,3 @@ description: This is a template for scheduling a research session.
 > Kristin Taylor
 
 \*\*\*\*
-
-  
-
-
