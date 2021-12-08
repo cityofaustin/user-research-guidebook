@@ -27,7 +27,7 @@ When the research time availability is determined, be sure to hold that time on 
 
 #### Step 4
 
-Offer those times to all the participants who responded with interest. See how we offer these times to residents by looking at our [Scheduling Research Session](../templates/scheduling-research-session.md) communication template.
+Offer those times to all the participants who responded with interest. See how we offer these times to residents by looking at our [Scheduling Research Session](../research-ethics-and-etiquette-draft/communicating-with-participate-draft/scheduling-research-session.md) communication template.
 
 #### Step 5
 
