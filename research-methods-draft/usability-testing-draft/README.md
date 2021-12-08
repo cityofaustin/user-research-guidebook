@@ -1,4 +1,4 @@
-# Workshops with stakeholders (DRAFT)
+# Usability testing (DRAFT)
 
 ## What is it & why should I use it?&#x20;
 
