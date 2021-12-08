@@ -20,7 +20,7 @@ We also never exclude specific people from participating in research that otherw
 
 Aligning with the principles of ethics in research is essential in our research process. These principles are:
 
-* obtain [informed consent](../research-planning-draft/compensation-guidelines/participant-consent.md)
+* obtain [informed consent](../forms-and-documents-draft/consent-form-draft/participant-consent/)
 * minimize the risk of harm to participants
 * protect their [anonymity](anonymity-standards.md) and confidentiality
 * avoid using deceptive practices

@@ -1,2 +1,0 @@
-# Participant Communication (Draft)
-
