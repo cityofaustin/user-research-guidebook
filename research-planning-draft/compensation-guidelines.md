@@ -1,4 +1,4 @@
-# Compensation Guidelines
+# Compensation Guidelines (DRAFT)
 
 ### **Why incentives are important**
 
@@ -23,7 +23,7 @@ In order to ensure inclusive and equitable research it is crucial to provide and
 * Research/Usability test plan must be created and include defined demographic targets and plans for reaching the desired participants.
   * Equitable and inclusive research plans are required prior to release of funds
   * Gift cards should be provided at the time of interview to avoid problems with coordinating delivery and ensuring participants feel valued
-* Find the Gift card procurement process in the [ODD field guide](https://docs.google.com/document/d/11w8I9X3hpg1GM\_nCvKlMj6U4F4tM1yDdULUPc\_e7RwY/edit?usp=sharing).
+* Find the Gift card procurement process&#x20;
 * Request approval for budget usage to Gerald Oliver who will coordinate with Marni Wilhite
 * Consider the most beneficial environment for the research. Does it need to be contextual (actions they mostly take at home or at work) or can it be in a public library or other setting that meets them where they are?
   * Scheduling in home, in their office, or other contextual space should provide higher compensation levels due to the fact that they will be preparing for us. It’s not just during the time of the interview that they will be using their time.
