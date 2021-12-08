@@ -24,7 +24,7 @@
   * [Scheduling Research Session](templates/scheduling-research-session.md)
   * [Confirmation of Scheduled Session](templates/confirmation-of-scheduled-session.md)
 * [Research methods (DRAFT)](research-methods-draft/README.md)
-  * [Picking a Test Method](research-methods-draft/picking-a-test-method.md)
+  * [Picking a research method](research-methods-draft/picking-a-research-method.md)
   * [Observations (DRAFT)](the-city-of-austin-research-methods/observations-draft.md)
   * [Talking to people (DRAFT)](the-city-of-austin-research-methods/talking-to-people-draft.md)
   * [Workshops with stakeholders (DRAFT)](the-city-of-austin-research-methods/workshops-with-stakeholders-draft.md)

@@ -1,4 +1,4 @@
-# Picking a Test Method
+# Picking a research method
 
 ### What is it and how should I use it ?&#x20;
 
