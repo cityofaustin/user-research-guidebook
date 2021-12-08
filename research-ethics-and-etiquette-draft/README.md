@@ -1,10 +1,10 @@
 ---
 description: >-
-  Below are guidelines that will help the research process run more smoothly for
-  you and the participant.
+  It is important to keep these things in mind so that participants feel
+  comfortable sharing their thoughts and you don’t miss anything important.
 ---
 
-# Research ethics and etiquette(DRAFT)
+# Research Ethics and Etiquette(DRAFT)
 
 ## Keep an open mind
 
