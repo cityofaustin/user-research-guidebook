@@ -37,6 +37,14 @@ Coordinate with the Library Communications manager or individual library branch 
 
 (Document about why and how we do user research in the field)
 
+## At Faulk
 
+Scheduling research at Faulk is easiest for us. When this is the case, we should consider the participants' experience when coming into our space.
+
+#### Parking & Getting in the Building
+
+Work with Gerald and/or security to cone off a parking spot in the parking lot for your participant. Be sure to let your participants know that the parking space with the cone in it is for them. Most participants are not confident moving the cone and taking the parking space. So, make it a practice to meet your participants in the parking lot and escort them in the building through the side door.
+
+After parking, you can escort them into the building through the side door and take them to the security desk to sign in and get a badge.
 
 ####
