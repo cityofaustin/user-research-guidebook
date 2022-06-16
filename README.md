@@ -8,3 +8,8 @@ In this guide we walk you through the processes and standards that we have estab
 
 This guide is intended to be shared and used by anyone who can benefit from it. We are also, always looking to improve our strategies and methods.
 
+For any feedback or questions, please contact Happiness Kisoso at **happiness.kisoso@austintexas.gov.**
+
+Previous contributors 
+- Kristin Taylor
+- Anu Kandimalla
