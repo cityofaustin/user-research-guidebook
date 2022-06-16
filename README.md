@@ -10,6 +10,6 @@ This guide is intended to be shared and used by anyone who can benefit from it. 
 
 For any feedback or questions, please contact Happiness Kisoso at **happiness.kisoso@austintexas.gov.**
 
-Previous contributors 
-- Kristin Taylor
-- Anu Kandimalla
+Thank you to the previous contributors: 
+- [Kristin Taylor](https://github.com/kriskristin)
+- [Anu Kandimalla](https://github.com/anukandimalla)
