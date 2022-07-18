@@ -13,5 +13,5 @@ It is crucial to provide incentives and compensation to test participants for th
 
 
 {% hint style="info" %}
-Send us a message and we can walk you through how we made compensation for research participation possible at the City of Austin for more details about how we navigate compensation issues and concerns at the organizational level.
+Send us a message and we can walk you through how we made incentives for research participation possible at the City of Austin for more details about how we navigate incentive issues and concerns at the organizational level.
 {% endhint %}
