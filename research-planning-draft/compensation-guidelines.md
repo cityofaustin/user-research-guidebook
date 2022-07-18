@@ -4,7 +4,7 @@
 
 It is crucial to provide incentives to test participants for their time to ensure inclusive and equitable research. Some people might have to take time off work or go out of their way to test your prototype. We are excluding a portion of our population that will provide valuable data without the incentives. Providing an incentive is also helpful if you are asking for a large effort from them for your test or if you have follow-up test sessions.
 
-### **Recommended Compensation Bands (Draft)**
+### **Recommended Incentive Bands (Draft)**
 
 
 
