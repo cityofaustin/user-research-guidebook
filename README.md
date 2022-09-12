@@ -8,7 +8,7 @@ This guide provides the processes and standards for involving residents in our w
 
 The guide is intended to be shared and used by anyone who can benefit from the information. We appreciate feedback as are always looking to improve our strategies and methods.
 
-&#x20;Please contact Happiness Kisoso with feedback or questions at: **happiness.kisoso@austintexas.gov.**
+&#x20;Please contact Happiness Kisoso with feedback or questions at: **happiness.kisoso@austintexas.gov or** Vicky Pridgen at **** vicky.pridgen@austintexas.gov
 
 Thank you to the previous contributors:&#x20;
 
