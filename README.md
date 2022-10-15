@@ -11,5 +11,5 @@ This guide is intended to be shared and used by anyone who can benefit from it. 
 Please contact Happiness Kisoso with feedback or questions at: happiness.kisoso@austintexas.gov  and/or Vicky Pridgen at vicky.pridgen@austintexas.gov
 
 Thank you to the previous contributors: 
-Kristin Taylor
-Anu Kandimalla
+- Kristin Taylor
+- Anu Kandimalla
