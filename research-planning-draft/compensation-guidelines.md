@@ -13,5 +13,5 @@ It is crucial to provide incentives to test participants for their time to ensur
 
 
 {% hint style="info" %}
-Send us a message and we can walk you through how we made incentives for research participation possible at the City of Austin for more details about how we navigate incentive issues and concerns at the organizational level.
+Send us a message and we can demonstrate how we made incentives for research participation possible at the City of Austin for more details about how we navigate incentive issues and concerns at the organizational level.
 {% endhint %}

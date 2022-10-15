@@ -10,7 +10,3 @@ The guide is intended to be shared and used by anyone who can benefit from the i
 
 **Please contact Happiness Kisoso with feedback or questions at: happiness.kisoso@austintexas.gov  and/or Vicky Pridgen at vicky.pridgen@austintexas.gov**
 
-Thank you to the previous contributors:&#x20;
-
-* [Kristin Taylor](https://github.com/kriskristin)
-* [Anu Kandimalla](https://github.com/anukandimalla)
