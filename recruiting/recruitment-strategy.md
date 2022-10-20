@@ -51,11 +51,11 @@ When people are willing to post to social media or listservs, we send over copy 
 >
 > "This morning I participated in a design research session with the City of Austin about the foster home inspection process. They are conducting research as an effort to improve the process. The session was an interview that took about 45 minutes and I received a **$40 gift card from HEB** for my time. They are looking for a few more foster families who have been through the inspection process to interview.
 >
-> If you are interested you can email, text or call Kristin Taylor: Kristin.Taylor@austintexas.gov\
+> If you are interested you can email, text or call Kristin Taylor: happiness.kisoso@austintexas.gov\
 > 512-888-8888
 >
 > Thanks again!
 >
-> Kristin Taylor
+> Happiness Kisoso
 
 Once Jennifer made this referral, we were able to quickly schedule interviews with qualified participants. Without her referral, we would have likely had to delay the project.
