@@ -12,7 +12,7 @@ Another purpose of the post research email is to ask them to recruit for us. Par
 >
 > Thanks for taking the time to speak with us yesterday about your experience getting a Food Managers Permit. We learned so much from talking with you and very much appreciate your insights. Your participation helps show us how the city can improve services for its residents.
 >
-> Would you like to be part of similar sessions in the future? Please  [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScEZa1kZM6Agyibq5L3y9JnFsV6hfNOaaSu8hq9FAPUnlmwqQ/viewform?usp=sf\_link) if you are interested in other research opportunities. Thank you if you have already filled out the form.
+> Would you like to be part of similar sessions in the future? Please <mark style="color:blue;">fill out this form(link to sign up for a paid feedback session)</mark> if you are interested in other research opportunities. Thank you if you have already filled out the form.
 >
 > Please forward the form to other Austin residents who might be interested in sharing their stories or testing out new tools! We also love encourage you to share the form on social media.
 >
