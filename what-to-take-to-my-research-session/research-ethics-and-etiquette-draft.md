@@ -1,33 +1,33 @@
 ---
 description: >-
-  It is important to keep these things in mind so that participants feel
-  comfortable sharing their thoughts and you don’t miss anything important.
+  It is important to keep ethics and etiquette in mind so participants feel
+  comfortable sharing their thoughts and you do not miss anything important.
 ---
 
 # Research Ethics and Etiquette(DRAFT)
 
-## Keep an open mind
+## Keep an Open Mind
 
-* Come in with fresh eyes - even if you’ve been working in this field or have worked on this idea for a long time, treat every test as a brand new learning opportunity, you might notice things that you didn’t before.&#x20;
-* Do not bring along your personal biases - leave your assumptions and biases behind so you have an unfiltered mind to take in new information instead of automatically rejecting the information to disregarding it.
+* Come in with fresh eyes: Treat every test as a brand new learning opportunity Even if you have been working in this field or have worked on this idea for a long time.&#x20;
+* Do not bring personal biases: Leave your assumptions and biases behind so you have an unfiltered mind learn new information instead of automatically rejecting the information.
 
-## Designate Roles before&#x20;
+## Designate Roles Before&#x20;
 
-## Be curious, listen to the participants
+## Be Curious and Listen to Participants
 
-* Awkward silences are ok - most participants need time to process and think before answering.&#x20;
-* Avoid interrupting or finishing their sentences - don’t assume you know what they’re going to say, even if you’re right, you want to hear it from their own words.&#x20;
-* Do not contradict or correct them, even if they are “wrong” - we are here to learn about how they experience your prototype.&#x20;
-* Ask open ended questions - don’t ask leading questions that might sway their answer or make them feel like they have to validate your prototype or opinion.&#x20;
-* You might have the urge to over explain your concept, teach them how to use it, or try to convince them that your concept is valuable. That will not lead to accurate test results. Refrain from leading them on or swaying their perspective. Just give them enough context so they know what they’re looking at and step back to see how they interact with your idea.&#x20;
-* Ask followup questions, ask them to elaborate or “tell me more about that.”
+* Awkward silences are ok: Most participants need time to process and think before answering.&#x20;
+* Avoid interrupting or finishing participants sentences: Do not assume you know what the participant is going to say.
+* Do not contradict or correct them even if the participant is wrong: We are there to learn about how they experience your prototype.&#x20;
+* Ask open ended questions: Do not ask leading questions that may sway their answer or make them feel like they have to validate your prototype or opinion.&#x20;
+* You might have the urge to over explain your concept, teach them how to use it, or try to convince them that your concept is valuable. That will not lead to accurate test results. Refrain from leading participants or swaying participant perspectives. Only provide enough context so participants know what they are looking at and step back to see how they interact with your idea.&#x20;
+* Ask follow-up questions or ask participants to elaborate.
 
-## Always document
+## Always Document
 
-* Take notes verbatim, as much direct quotes as possible - we will synthesize later
-* Take as many photos/audio/video as you can - you should ask for permission in the beginning
+* Take notes verbatim, as much direct quotes as possible. We will synthesize later
+* Take as many photos/audio/video as you can.  Ensure you ask for permission in the beginning.
 
-## What to bring&#x20;
+## What to Bring&#x20;
 
 * Notebook
 * Pen&#x20;
@@ -36,9 +36,9 @@ description: >-
 * Camera
 * Audio recorder
 * Video camera
+* Business cards
 
-## What to wear&#x20;
+## What to Wear&#x20;
 
 * Wear your badge on your collar or shirt so it is visible&#x20;
-* Business card (if you have one)&#x20;
-* Dress casual - No Suits ( this helps the particpate feel comfortable and not feel like they are being interviewed.)
+* Dress casual: No Suits
