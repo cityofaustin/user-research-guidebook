@@ -2,7 +2,8 @@
 
 * [User Research at the City of Austin](README.md)
 * [Research Planning (DRAFT)](research-planning-draft/README.md)
-  * [Create a research plan (DRAFT)](research-planning-draft/create-a-research-plan-draft.md)
+  * [Create a project brief](research-planning-draft/create-a-research-plan-draft.md)
+  * [Plan your research](research-planning-draft/plan-your-research.md)
   * [Incentives Guidelines (DRAFT)](research-planning-draft/compensation-guidelines.md)
   * [Scheduling for Researchers](research-planning/scheduling.md)
 * [Recruiting](recruiting-draft/README.md)
