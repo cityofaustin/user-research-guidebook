@@ -1,11 +1,13 @@
 # Table of contents
 
 * [User Research at the City of Austin](README.md)
+* [User Centered Testing, why do it?](user-centered-testing-why-do-it.md)
 * [Research Planning (DRAFT)](research-planning-draft/README.md)
   * [Create a project brief](research-planning-draft/create-a-research-plan-draft.md)
-  * [Plan your research](research-planning-draft/plan-your-research.md)
-  * [Incentives Guidelines (DRAFT)](research-planning-draft/compensation-guidelines.md)
+  * [Planning a Test](research-planning-draft/planning-a-test.md)
+  * [Prototype Test Plan Canvas](research-planning-draft/prototype-test-plan-canvas.md)
   * [Scheduling for Researchers](research-planning/scheduling.md)
+* [Incentives Guidelines (DRAFT)](compensation-guidelines.md)
 * [Recruiting](recruiting-draft/README.md)
   * [Recruitment Strategy](recruiting/recruitment-strategy.md)
   * [Recruitment & Screening Document](recruiting/recruitment-process-and-timeline.md)

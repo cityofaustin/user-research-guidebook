@@ -13,6 +13,8 @@ This guide is for you if...
 * .. you have a product that is in early development, but it has never been tested with real users. This guide will help you form quick tests to validate or disprove your idea and help make strategic design decisions.
 * ... you have a product that you’re about to pilot or launch, but it has never been tested with real users.\
   This guide will help you identify any big problems that you might encounter before rolling out to a large audience.
+* ... you have a product that has already launched, but your users are not using it or do not like using it. \
+  This guide will help you identify the problem areas of your product.
 
 **Please contact Happiness Kisoso with feedback or questions at: happiness.kisoso@austintexas.gov**
 
