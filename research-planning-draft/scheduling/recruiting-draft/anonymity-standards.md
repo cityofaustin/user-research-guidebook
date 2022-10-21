@@ -29,7 +29,7 @@ When we document any type of research (user interview, observation or usability 
 
 #### Here is an example of how that would look in a rainbow sheet for a usability test:
 
-![Rainbow sheet showing participant coding](../.gitbook/assets/screen-shot-2019-07-22-at-10.39.53-am.png)
+![Rainbow sheet showing participant coding](../../../.gitbook/assets/screen-shot-2019-07-22-at-10.39.53-am.png)
 
 ## Collecting photos and video
 
