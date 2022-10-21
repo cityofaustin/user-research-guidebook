@@ -5,7 +5,7 @@ description: >-
   their schedule.
 ---
 
-# Location (DRAFT)
+# Location
 
 Conducting user research in our office at times that are convenient to us is always easier on our end. But there are residents who would not be able to be involved in research if we limited it to our office and during regular working hours. When scheduling research session with residents, we always offer to meet them where they are and are flexible enough to find a time that works for both of us.
 

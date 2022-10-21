@@ -6,7 +6,7 @@ description: Principles and methods of civic user research conducted by the City
 
 This guide provides the processes and standards for involving residents in our work through user and design research. The guide focuses on recruiting and coordinating residents with user research.
 
-### This guide is for you if...
+#### This guide is for you if...
 
 * .. you have a product that is in early development, but it has never been tested with real users. This guide will help you form quick tests to validate or disprove your idea and help make strategic design decisions.
 * ... you have a product that you’re about to pilot or launch, but it has never been tested with real users.\

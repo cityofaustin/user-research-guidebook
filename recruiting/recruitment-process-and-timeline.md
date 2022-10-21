@@ -5,7 +5,7 @@ description: >-
   your research.
 ---
 
-# Recruitment & Screening Document (DRAFT)
+# Recruitment & Screening Document
 
 ## Why do you need a recruitment & screening document.
 
