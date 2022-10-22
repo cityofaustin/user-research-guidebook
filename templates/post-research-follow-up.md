@@ -16,6 +16,6 @@ Another purpose of the post research email is to ask them to recruit for us. Par
 >
 > Please forward the form to other Austin residents who might be interested in sharing their stories or testing out new tools! We also love encourage you to share the form on social media.
 >
-> Thank you again on behalf of the Office of Design and Delivery at the City of Austin.
+> Thank you again on behalf of the City of Austin.
 >
-> Kristin Taylor
+> Happiness Kisoso
