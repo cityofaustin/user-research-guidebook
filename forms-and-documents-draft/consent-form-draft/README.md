@@ -1,6 +1,2 @@
----
-description: (DRAFT)
----
-
-# Consent Form
+# Consent form (DRAFT)
 

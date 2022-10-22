@@ -15,7 +15,7 @@
       * [Location](recruiting/location.md)
       * [Research & Recruitment Guiding Principles](recruiting/untitled.md)
       * [Incentives Guidelines (DRAFT)](research-planning-draft/compensation-guidelines.md)
-* [Research Methods](research-methods-draft/README.md)
+* [Testing Methods](research-methods-draft/README.md)
   * [Interviews](research-methods-draft/talking-to-people-draft.md)
   * [Fly on the Wall Observations](research-methods-draft/observation-draft.md)
   * [Think Aloud](research-methods-draft/usability-testing-draft/think-aloud-draft.md)

@@ -1,6 +1,2 @@
----
-description: (DRAFT)
----
-
-# Research Planning
+# Research Planning (DRAFT)
 

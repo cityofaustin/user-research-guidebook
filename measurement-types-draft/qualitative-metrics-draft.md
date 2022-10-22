@@ -1,6 +1,2 @@
----
-description: (DRAFT)
----
-
-# Qualitative Metrics
+# Qualitative metrics (DRAFT)
 

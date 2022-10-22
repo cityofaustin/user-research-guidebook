@@ -1,8 +1,4 @@
----
-description: (DRAFT)
----
-
-# Workshops with Stakeholders
+# Workshops with stakeholders (DRAFT)
 
 ## What is it & why should I use it?&#x20;
 

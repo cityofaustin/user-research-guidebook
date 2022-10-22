@@ -1,6 +1,6 @@
 ---
-description: Here are some forms that you will need when conducting your research (DRAFT)
+description: Here are some forms that you will need when conducting your research
 ---
 
-# Forms and Documents
+# Forms and Documents (DRAFT)
 

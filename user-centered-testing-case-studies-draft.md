@@ -1,6 +1,2 @@
----
-description: (DRAFT)
----
-
-# City of Austin Case Studies
+# City of Austin case studies (DRAFT)
 

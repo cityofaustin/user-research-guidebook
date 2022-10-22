@@ -5,23 +5,25 @@ description: >-
   your research.
 ---
 
-# Recruitment & Screening Document
+# Recruitment & Screening Document (DRAFT)
 
-## Recruitment & Screening Document Overview
+## Why do you need a recruitment & screening document.
 
-It is important to talk to the right people when doing user research. Well planned research requires clearly identified participants and timelines. Outlining these details helps you and others involved in recruitment or coordination determine who to talk to and when you will need to talk to them.
+It is important to talk to the right people when doing user research. If you wanted to know what it was like to swim at Barton Springs, would you ask someone who had never been there? Absolutely not! You would ask someone who had recently gone since they are the best source of information on the subject. When conducting user research it is important to identify who can give answers to your questions.
 
-## **Details to Include in the Recruitment & Screening Document**
+Well planned research requires clearly identified participants and timelines. Outlining these details will help you, or anyone involved in recruitment and coordination know who you need to talk to and when you will need to talk to them.
+
+## **What details should you include in your recruitment & screening document.**
 
 ### **Goal**
 
-Include a short summary of why you are doing the research and what you hope to gain from the research.
+In a couple of sentences state why you are doing this research and what you hope to get out of it.
 
 ### **Research Questions**
 
-#### List the specific questions for the information you want to capture.
+#### List the specific questions you are interested in.
 
-The questions should be thought provoking to gain knowledge for all project participants. Do not frame the questions as interview questions. Frame the questions in a way the includes the reasons for the user research. These question types invoke discussion early in the research planning phase.
+These questions should In this section you should list the questions you are looking to get insight into through user research. These aren't interview questions, but rather the reasons you are doing user research.When determining these questions it is important to involve all project participants. I like to make this a discussion early in the research planning phase.
 
 A great list of research questions are specific, not overly general and focus on new information to learn about the users.
 
@@ -37,19 +39,15 @@ Identify the date that you would like user research to be completed.
 
 ### Research Methodology
 
-The methodology you choose should be determined by your research goals and questions.
-
-Are you performing user observations?
-
-Conducting user interviews or perhaps doing usability testing?
+Are you doing user observations, conducting user interviews or perhaps doing usability testing? The methodology you choose should be determined by your research goals and questions.
 
 ### Total number of Participants
 
-The number of participants included in the study depends on your methodology and resources.
+How many people do you need to run this study with? This will depend on your methodology and resources.
 
-### Identify the Right Participants
+### Identifying the Right Participant
 
-It is important to define and select participants that will give you the right insight to your questions. Answering the questions below will help develop a screener or filter out individuals in the recruitment database.
+Like the Barton Springs example, it is important to define and select participants that will give you the right insight to your questions. Answering the questions bellow will help develop a screener or filter out individuals in the recruitment database.
 
 | Who do you want to talk to?      | What exact criteria will identify the people you want to talk to? | What screening questions should we ask? (Questions shouldn't reveal the right answers)                                         |
 | -------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |

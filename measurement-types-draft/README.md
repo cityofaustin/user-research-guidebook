@@ -1,6 +1,2 @@
----
-description: (Draft)
----
-
 # Measurement Types
 
