@@ -1,2 +1,6 @@
-# Communicating with participate (Draft)
+---
+description: (Draft)
+---
+
+# Communicating with participate
 
