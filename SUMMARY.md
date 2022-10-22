@@ -18,7 +18,6 @@
 * [User Centered Testing, why do it?](user-centered-testing-why-do-it.md)
 * [Testing Methods](research-methods-draft/README.md)
   * [Interviews](research-methods-draft/talking-to-people-draft.md)
-  * [Workshops with Stakeholders](the-city-of-austin-research-methods/workshops-with-stakeholders-draft.md)
   * [Fly on the Wall Observations](research-methods-draft/observation-draft.md)
   * [Think Aloud](research-methods-draft/usability-testing-draft/think-aloud-draft.md)
   * [Intercepts](research-methods-draft/intercepts-draft.md)
