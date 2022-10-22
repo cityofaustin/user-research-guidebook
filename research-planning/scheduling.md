@@ -9,7 +9,7 @@ description: >-
 
 #### Step 1
 
-Have a clear understanding of the timeframe and requirements of the research before scheduling research sessions with participants. This is usually documented in a [Recruitment & Screening Document](recruiting-draft/recruitment-process-and-timeline.md).
+Have a clear understanding of the timeframe and requirements of the research before scheduling research sessions with participants. This is usually documented in a [Recruitment & Screening Document](../recruiting/recruitment-process-and-timeline.md).
 
 #### Step 2
 
@@ -31,7 +31,7 @@ Send a calendar placeholder to participants. This prevents them from scheduling 
 
 #### Step 4
 
-Offer those times to all the participants who responded with interest. See how we offer these times to residents by looking at our [Scheduling Research Session](../participant-communication-draft/scheduling-research-session.md) communication template.
+Offer those times to all the participants who responded with interest. See how we offer these times to residents by looking at our [Scheduling Research Session](../templates/scheduling-research-session.md) communication template.
 
 #### Step 5
 

@@ -4,7 +4,7 @@ description: >-
   comfortable sharing their thoughts and you do not miss anything important.
 ---
 
-# Research Ethics and Etiquette(DRAFT)
+# Research Ethics and Etiquette
 
 ## Keep an Open Mind
 
