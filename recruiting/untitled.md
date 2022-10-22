@@ -1,5 +1,9 @@
 # Research & Recruitment Guiding Principles
 
+This can be as easy or as complicated as you need it to be.&#x20;
+
+Some test methods do not involve any recruitment work prior to the test. But sometimes you’ll want to find people who closely resemble the type of people who will actually be using your product, in which case you’ll need to do some recruitment work.
+
 ## Residents First
 
 The City of Austin believes residents come first. This means that we connect with the community early and often in our design process. We do this to understand community needs and expectations and to test and refine solutions.
@@ -22,6 +26,6 @@ Aligning with the principles of ethics in research is essential in our research 
 
 * Obtain [informed consent](../forms-and-documents-draft/consent-form-draft/participant-consent/)
 * Minimize the risk of harm to participants
-* Protect their [anonymity](anonymity-standards.md) and confidentiality
+* Protect their [anonymity](../research-ethics-and-etiquette-draft/anonymity-standards.md) and confidentiality
 * Avoid using deceptive practices
 * Enable participants to withdraw from research
