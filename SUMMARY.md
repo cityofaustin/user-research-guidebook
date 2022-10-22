@@ -32,7 +32,7 @@
     * [Confirmation of Scheduled Session](templates/confirmation-of-scheduled-session.md)
     * [Post Research Follow-up & Evangalism](templates/post-research-follow-up.md)
     * [Reminder of Research Session](templates/reminder-of-research-session.md)
-* [Forms and Documents (DRAFT)](forms-and-documents-draft/README.md)
+* [Forms and Documents](forms-and-documents-draft/README.md)
   * [Consent Form](forms-and-documents-draft/consent-form-draft/README.md)
     * [Consent Forms with Compensation (DRAFT)](forms-and-documents-draft/consent-form-draft/participant-consent/README.md)
       * [Compensation Agreements (DRAFT)](forms-and-documents-draft/consent-form-draft/participant-consent/compensation-agreements-draft.md)
