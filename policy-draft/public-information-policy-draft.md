@@ -1,2 +1,6 @@
-# Public Information Policy (DRAFT)
+---
+description: (DRAFT)
+---
+
+# Public Information Policy
 

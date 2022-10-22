@@ -1,2 +1,6 @@
-# Gift card agreement and form (DRAFT)
+---
+description: (DRAFT)
+---
+
+# Gift Card Agreement and Form
 
