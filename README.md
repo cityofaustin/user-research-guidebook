@@ -14,8 +14,7 @@ This guide provides the processes and standards for involving residents in our w
 * ... you have a product that has already launched, but your users are not using it or do not like using it. \
   This guide will help you identify the problem areas of your product.
 
-If you are looking for a guide on how to select a technology for your team.  \
-Please use the[ City of Austin Technology Selection Toolkit](https://cityofaustin.gitbook.io/technology-selection-toolkit/)\
+If you are looking for a guide on how to select a technology for your team. Please use the[ City of Austin Technology Selection Toolkit](https://cityofaustin.gitbook.io/technology-selection-toolkit/)\
 
 
 This guide is intended to be shared and used by anyone who can benefit from it. We are also, always looking to improve our strategies and methods. Please contact Happiness Kisoso with feedback or questions at: happiness.kisoso@austintexas.gov
