@@ -1,6 +1,6 @@
 ---
-description: This is a template for confirming a scheduled research session.
+description: This is a template for confirming a scheduled research session. (DRAFT)
 ---
 
-# Confirmation of Scheduled Session (DRAFT)
+# Confirmation of Scheduled Session
 
