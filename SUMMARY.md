@@ -29,7 +29,7 @@
   * [Preparing for your remote research session(Draft)](what-to-take-to-my-research-session/preparing-for-your-remote-research-session-draft.md)
   * [Communicating with participate (Draft)](participant-communication-draft/README.md)
     * [Scheduling Research Session](templates/scheduling-research-session.md)
-    * [Confirmation of Scheduled Session (DRAFT)](templates/confirmation-of-scheduled-session.md)
+    * [Confirmation of Scheduled Session](templates/confirmation-of-scheduled-session.md)
     * [Post Research Follow-up & Evangalism](templates/post-research-follow-up.md)
     * [Reminder of Research Session (DRAFT)](templates/reminder-of-research-session.md)
 * [Forms and Documents (DRAFT)](forms-and-documents-draft/README.md)
