@@ -2,10 +2,6 @@
 
 We are committed to minimizing the risk of harm to residents while collecting and documenting information. Our priority is to be good stewards of the information we collect. We have established the following anonymity practices so that a project cannot link individual responses with participant identities.
 
-##
-
-
-
 ## Transcribing and Documenting Research sessions
 
 We assign each participant a unique number when we document any type of research. This is simply a project name abbreviation followed by a number.
