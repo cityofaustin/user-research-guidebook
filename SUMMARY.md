@@ -24,7 +24,7 @@
   * [Testing Content](the-city-of-austin-research-methods/testing-content-draft.md)
     * [Testing Translated Content ](the-city-of-austin-research-methods/language-user-research-and-testing.md)
   * [Workshops with Stakeholders (DRAFT)](the-city-of-austin-research-methods/workshops-with-stakeholders-draft.md)
-* [Research Ethics and Etiquette(DRAFT)](what-to-take-to-my-research-session/research-ethics-and-etiquette-draft.md)
+* [Research Ethics and Etiquette](what-to-take-to-my-research-session/research-ethics-and-etiquette-draft.md)
   * [Preparing for Your Research Session](what-to-take-to-my-research-session/README.md)
   * [Preparing for your remote research session(Draft)](what-to-take-to-my-research-session/preparing-for-your-remote-research-session-draft.md)
   * [Communicating with participate (Draft)](participant-communication-draft/README.md)
