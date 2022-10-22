@@ -5,5 +5,5 @@ description: >-
   participant leaves the session their own copy.
 ---
 
-# Consent form without compensation (DRAFT)
+# Consent Form without Compensation
 

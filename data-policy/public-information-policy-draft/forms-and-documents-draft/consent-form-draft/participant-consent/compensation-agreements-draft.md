@@ -1,2 +1,0 @@
-# Compensation agreements (DRAFT)
-
