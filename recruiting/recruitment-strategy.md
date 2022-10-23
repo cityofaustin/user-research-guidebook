@@ -18,9 +18,9 @@ Often we are looking for participants who have had very specific experiences. As
 
 We sent out targeted emails to Food Truck owners to recruit those individuals.
 
-### Vulnerable Populations Participant Recruiting
+### Vulnerable Populations Participant Recruiting (DRAFT)
 
-(DRAFT)
+
 
 ### Community Involvement
 
@@ -32,9 +32,9 @@ We also work hand in hand with communications and public engagement office at th
 
 We always make it a point to ask for referrals from residents who have participated in research with us. Asking for referrals is especially effective when we need to do research with specific types of people.
 
-Recently the Service Design Lab at our office needed to interview foster parents. Once we were able to get an interview with one foster parent, we asked them for a referral. We got this email in response:
+Recently the City of Austin needed to interview foster parents. Once we were able to get an interview with one foster parent, we asked them for a referral. We got this email in response:
 
-> Hi Kristin,
+> Hi Alex,
 >
 > We have a Facebook group for families using the same agency my wife and I use. Would it be alright if I posted your information there so they can reach out to you directly; or would you prefer do get their contact information and reach out like you did with me?
 >
@@ -51,11 +51,11 @@ We send over copy groups can clearly and easily communicate what we are looking 
 >
 > "This morning I participated in a design research session with the City of Austin about the foster home inspection process. They are conducting research as an effort to improve the process. The session was an interview that took about 45 minutes and I received a **$40 gift card from HEB** for my time. They are looking for a few more foster families who have been through the inspection process to interview.
 >
-> If you are interested you can email, text or call Happiness Kisoso: happiness.kisoso@austintexas.gov\
+> If you are interested you can email, text or call Kristin Taylor: Kristin.Taylor@austintexas.gov
 > 512-888-8888
 >
 > Thanks again!
 >
-> Happiness Kisoso
+> Kristin Taylor
 
 We were able to quickly schedule interviews with qualified participants aftee Jennifer made this referral. Without her referral, we would have likely had to delay the project.
