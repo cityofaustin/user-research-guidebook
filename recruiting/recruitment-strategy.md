@@ -34,13 +34,13 @@ We always make it a point to ask for referrals from residents who have participa
 
 Recently the Service Design Lab at our office needed to interview foster parents. Once we were able to get an interview with one foster parent, we asked them for a referral. We got this email in response:
 
-> Hi Alex,
+> Hi Kristin,
 >
-> We have a Facebook group for families using the same agency my wife and I use. Would itf be alright if I posted your information there so they can reach out to you directly; or would you prefer do get their contact information and reach out like you did with me?
+> We have a Facebook group for families using the same agency my wife and I use. Would it be alright if I posted your information there so they can reach out to you directly; or would you prefer do get their contact information and reach out like you did with me?
 >
 > If it's alright to post the info, what information would you prefer to be posted? Just your email addresses or also include phone numbers?
 >
-> Thanks,\
+> Thanks,
 > Jennifer Smith
 
 We send over copy groups can clearly and easily communicate what we are looking for when groups are willing to post to social media or listservs. We sent the following:
@@ -51,7 +51,7 @@ We send over copy groups can clearly and easily communicate what we are looking 
 >
 > "This morning I participated in a design research session with the City of Austin about the foster home inspection process. They are conducting research as an effort to improve the process. The session was an interview that took about 45 minutes and I received a **$40 gift card from HEB** for my time. They are looking for a few more foster families who have been through the inspection process to interview.
 >
-> If you are interested you can email, text or call Kristin Taylor: happiness.kisoso@austintexas.gov\
+> If you are interested you can email, text or call Happiness Kisoso: happiness.kisoso@austintexas.gov\
 > 512-888-8888
 >
 > Thanks again!
