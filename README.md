@@ -14,5 +14,5 @@ This guide provides the processes and standards for involving residents in our w
 
 This guide is intended to be shared and used by City of Austin staff and anyone who can benefit from it. We are also, always looking to improve our strategies and methods. \
 \
-Please be sure to contact the CTM Service desk and they can help you get in touch with our team or contact the CTM Help Desk (512-974-HELP) with feedback or questions.
+Please be sure to contact the CTM Service desk for feedback or questions and they can help you get in touch with our team or contact the CTM Help Desk (512-974-HELP).
 
