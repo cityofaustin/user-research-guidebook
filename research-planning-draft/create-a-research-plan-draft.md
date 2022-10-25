@@ -1,6 +1,2 @@
----
-description: This is also a research plan
----
-
-# Create a project brief
+# Create a research plan (DRAFT)
 

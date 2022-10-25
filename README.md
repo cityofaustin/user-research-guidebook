@@ -14,5 +14,5 @@ This guide provides the processes and standards for involving residents in our w
 
 This guide is intended to be shared and used by anyone who can benefit from it. We are also, always looking to improve our strategies and methods. \
 \
-Please contact Happiness Kisoso with feedback or questions at: happiness.kisoso@austintexas.gov
+Please be sure to contact the CTM Service desk and they can help you get in touch with a Form Consultant or contact the CTM Help Desk (512-974-HELP)
 
