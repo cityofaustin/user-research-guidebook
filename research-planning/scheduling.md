@@ -9,7 +9,7 @@ description: >-
 
 #### Step 1
 
-Have a clear understanding of the timeframe and requirements of the research before scheduling research sessions with participants. This is usually documented in a [Recruitment & Screening Document](../recruiting-draft/recruitment-process-and-timeline.md).
+Have a clear understanding of the timeframe and requirements of the research before scheduling research sessions with participants. This is usually documented in a [Recruitment & Screening Document](../recruiting/recruitment-process-and-timeline.md).
 
 #### Step 2
 

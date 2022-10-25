@@ -6,7 +6,7 @@ Our goal is to get access to people that have gone through or have appropriate i
 
 ### General Recruitment
 
-We are continually building up a database of potential research participants who are eager to share their experiences. We created a screener survey in English and Spanish  as a way to easily recruit and organize participants.
+We are continually building up a database of potential research participants who are eager to share their experiences. We created a screener survey in English and Spanish as a way to easily recruit and organize participants.
 
 We promote that screener through various social media channels, medium posts, and at community events. We are currently in the process of developing a more robust participant engagement plan and will document what works well.
 
@@ -19,8 +19,6 @@ Often we are looking for participants who have had very specific experiences. As
 We sent out targeted emails to Food Truck owners to recruit those individuals.
 
 ### Vulnerable Populations Participant Recruiting (DRAFT)
-
-
 
 ### Community Involvement
 
@@ -40,8 +38,7 @@ Recently the City of Austin needed to interview foster parents. Once we were abl
 >
 > If it's alright to post the info, what information would you prefer to be posted? Just your email addresses or also include phone numbers?
 >
-> Thanks,
-> Jennifer Smith
+> Thanks, Jennifer Smith
 
 We send over copy groups can clearly and easily communicate what we are looking for when groups are willing to post to social media or listservs. We sent the following:
 
@@ -51,8 +48,7 @@ We send over copy groups can clearly and easily communicate what we are looking 
 >
 > "This morning I participated in a design research session with the City of Austin about the foster home inspection process. They are conducting research as an effort to improve the process. The session was an interview that took about 45 minutes and I received a **$40 gift card from HEB** for my time. They are looking for a few more foster families who have been through the inspection process to interview.
 >
-> If you are interested you can email, text or call Kristin Taylor: Kristin.Taylor@austintexas.gov
-> 512-888-8888
+> If you are interested you can email, text or call Kristin Taylor: Kristin.Taylor@austintexas.gov 512-888-8888
 >
 > Thanks again!
 >
