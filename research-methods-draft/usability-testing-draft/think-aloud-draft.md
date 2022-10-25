@@ -1,7 +1,3 @@
----
-description: (draft)
----
-
 # Think Aloud
 
 ### What is it & why should I use it?&#x20;
