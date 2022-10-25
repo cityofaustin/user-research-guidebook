@@ -26,6 +26,6 @@ Aligning with the principles of ethics in research is essential in our research 
 
 * Obtain [informed consent](../forms-and-documents-draft/consent-form-draft/participant-consent/)
 * Minimize the risk of harm to participants
-* Protect their [anonymity](../research-planning-draft/research-ethics-and-etiquette-draft/anonymity-standards.md) and confidentiality
+* Protect their [anonymity](../research-planning-draft/anonymity-standards.md) and confidentiality
 * Avoid using deceptive practices
 * Enable participants to withdraw from research
