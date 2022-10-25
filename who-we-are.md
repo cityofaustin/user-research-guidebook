@@ -6,7 +6,7 @@ description: >-
 
 # Who we are
 
-* Anu Kandimalla
-* Happiness Kisoso&#x20;
-* Hillary Berquist
-* Kristin Taylor &#x20;
+* [Anu Kandimalla](https://github.com/anukandimalla)
+* [Happiness Kisoso](https://github.com/happinessk)&#x20;
+* [Hillary Berquist](https://github.com/hillaryfunk)
+* [Kristin Taylor  ](https://github.com/kriskristin)
