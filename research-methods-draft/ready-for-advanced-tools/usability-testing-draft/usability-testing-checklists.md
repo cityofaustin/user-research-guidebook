@@ -2,15 +2,13 @@
 
 ### **Before Test Day**
 
-* [ ] Figure out what you’re going to be testing (site, wireframes, prototype, etc.)
+* [ ] Determine what you’re going to be testing (site, wireframes, prototype, etc.)
 * [ ] Create your list of tasks and scenarios to test
 * [ ] Decide what kind(s) of users you want to test with
 * [ ] Determine where you would be testing
 * [ ] Get feedback on your list of tasks from the project team and stakeholders
-*   [ ] Arrange incentives for participants (e.g., order gift certificates,
-
-    requisition cash)
-* [ ] Start screening participants and scheduling them into time slots
+* [ ] Arrange[ incentives for participants](../../../research-planning-draft/compensation-guidelines.md)
+* [ ] Start [screening participants](../../../recruiting-draft/) and [scheduling them into time slots](../../../research-planning/scheduling.md)
 * [ ] Send “save the date” email inviting team members and stakeholders to attend
 * [ ] Send email to the participants with directions, parking instructions, location of the test room, name and phone number of someone to call on the test day if they’re late or lost, and the non-disclosure agreement ifyou’re using one
 * [ ] Do a pilot test of the scenarios
