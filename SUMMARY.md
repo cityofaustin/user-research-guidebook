@@ -50,4 +50,3 @@
     * [Persona Questions](how-to-create-user-personas/persona-questions.md)
 * [Available Resources](available-resources.md)
 * [Other City of Austin Guides](other-city-of-austin-guides.md)
-* [Who we are](who-we-are.md)
