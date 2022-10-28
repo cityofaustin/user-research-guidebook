@@ -1,4 +1,8 @@
-# Testing translated content (DRAFT)
+---
+description: (DRAFT)
+---
+
+# Testing Translated Content&#x20;
 
 ## Why testing in multiple languages is important
 

@@ -1,2 +1,2 @@
-# Research Planning (DRAFT)
+# Research Planning
 

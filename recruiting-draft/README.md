@@ -1,2 +1,2 @@
-# Recruiting (Draft)
+# Recruiting
 

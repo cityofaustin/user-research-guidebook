@@ -24,8 +24,3 @@ description: A list of the resources we have available for user and design resea
 | Optimal Workshop | <p>Navigation testing</p><p>Remote testing</p>                                                                                  |
 |                  |                                                                                                                                 |
 
-
-
-{% hint style="warning" %}
-Please contact the  Service Design lead to learn how you can access the available software and hardware.&#x20;
-{% endhint %}

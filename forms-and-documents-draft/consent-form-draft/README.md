@@ -1,2 +1,2 @@
-# Consent form (DRAFT)
+# Consent Guide and Form templates
 
