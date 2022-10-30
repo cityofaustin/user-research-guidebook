@@ -16,3 +16,8 @@ This guide is intended to be shared and used by City of Austin staff and anyone 
 \
 Please be sure to contact the CTM Service desk for feedback or questions and they can help you get in touch with our team or contact the CTM Help Desk (512-974-HELP).
 
+Please contact Happiness Kisoso with feedback or questions at: happiness.kisoso@austintexas.gov  and/or Vicky Pridgen at vicky.pridgen@austintexas.gov
+
+Thank you to the previous contributors: 
+- Kristin Taylor
+- Anu Kandimalla
