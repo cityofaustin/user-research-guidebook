@@ -1,7 +1,3 @@
----
-description: draft
----
-
 # Incentives Guidelines
 
 ### I**ncentives are Important**
