@@ -2,7 +2,8 @@
 
 * [User Research at the City of Austin](README.md)
 * [Research Planning](research-planning-draft/README.md)
-  * [Create a project brief](research-planning-draft/create-a-research-plan-draft.md)
+  * [project brief](research-planning-draft/create-a-research-plan-draft/README.md)
+    * [Create a Project Brief](research-planning-draft/create-a-research-plan-draft/create-a-project-brief.md)
   * [User Centered Testing, why do it?](user-centered-testing-why-do-it.md)
   * [Planning a Test](research-planning-draft/planning-a-test.md)
   * [Location](research-planning-draft/location.md)
