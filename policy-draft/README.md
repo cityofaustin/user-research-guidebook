@@ -1,6 +1,2 @@
----
-description: (DRAFT)
----
-
 # Data Policy
 
