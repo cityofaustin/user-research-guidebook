@@ -1,11 +1,12 @@
 ---
-description: >-
-  Notes to reader:  To use this document... 1.) Make a copy. 2.)remove this
-  section before use.  3.)You are welcome to remove project brief sections to
-  fit your use case
+description: create a research plan
 ---
 
-# Create a Project Brief
+# Project Brief/ Research Plan Template
+
+{% hint style="info" %}
+Notes to reader: To use this document... 1.) copy. 2.)remove this section before use. 3.)You are welcome to remove project brief sections to fit your use case
+{% endhint %}
 
 ## Project Title&#x20;
 
