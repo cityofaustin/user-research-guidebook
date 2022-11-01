@@ -13,6 +13,7 @@
   * [Participant Consent Form with Incentive](forms-and-documents-draft/consent-form-draft/gift-card-agreement-and-form-draft.md)
   * [Consent Form without Incentive](forms-and-documents-draft/consent-form-draft/consent-form-without-compensation-draft.md)
 * [Testing Methods](research-methods-draft/README.md)
+  * [Interviews](research-methods-draft/interviews.md)
   * [Fly on the Wall Observations](research-methods-draft/observation-draft.md)
   * [Think Aloud](research-methods-draft/usability-testing-draft/think-aloud-draft.md)
   * [Intercepts](research-methods-draft/intercepts-draft.md)
