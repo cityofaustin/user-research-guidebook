@@ -1,6 +1,0 @@
----
-description: (DRAFT)
----
-
-# Quantitative Metrics
-

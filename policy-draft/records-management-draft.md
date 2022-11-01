@@ -1,6 +1,2 @@
----
-description: (DRAFT)
----
-
 # Records Management
 
