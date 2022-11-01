@@ -68,9 +68,10 @@ Prepared by: `________` &#x20;
 
 ## The Scope &#x20;
 
-&#x20;\
+`Your project scope statement will act as the primary tool for stakeholders and teammates to refer back to and use as a guideline to accurately measure project success.`
+
+\
 Timeline and approach&#x20;
----------------------------
 
 | Months                                               | June  | July             | August  | Sept.  | Oct.  | Nov.  | Dec.  | Jan.  | Notes  |
 | ---------------------------------------------------- | ----- | ---------------- | ------- | ------ | ----- | ----- | ----- | ----- | ------ |
@@ -154,9 +155,11 @@ Option **2** to share who will be doing what, is to use the RACI&#x20;
 
 ## Ideas and Notes&#x20;
 
-
+`Notes you captured to help guide the work.`&#x20;
 
 ## Other information&#x20;
+
+`add helpful links or information here to help guide your research.`&#x20;
 
 ## Question
 
