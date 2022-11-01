@@ -1,8 +1,8 @@
 ---
-description: create a research plan
+description: Also known as your research plan template
 ---
 
-# Project Brief/ Research Plan Template
+# Project Brief Template
 
 {% hint style="info" %}
 Notes to reader: To use this document... 1.) copy. 2.)remove this section before use. 3.)You are welcome to remove project brief sections to fit your use case
