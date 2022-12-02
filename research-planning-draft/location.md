@@ -7,7 +7,7 @@ description: >-
 
 # Location
 
-Conducting user research in our office at times that are convenient to us is always easier on our end. No all residents would be involved in research if we limited it to our office and during regular working hours. We always offer to meet them where they are and are flexible in finding a time that works for all of us when scheduling research session with residents, .
+Conducting user research in our office at times that are convenient to us is always easier on our end. Not all residents would be involved in research if we limited it to our office and during regular working hours. We always offer to meet them where they are and are flexible in finding a time that works for all of us when scheduling research session with residents.
 
 ## Using the Library
 
@@ -27,7 +27,7 @@ Rooms need to be reserved at least 3 days in advance, but should be reserved as 
 
 We use libraries because they are supportive of our work. We have performed impromptu usability testing in the neighborhood libraries, but that recruitment is really opportunistic.
 
-We researched out to librarians and asked them what their busiest hours are and what events they host in an attempt to leverage the libraries. This data can be used to help strategize the best time and location to do this type of research. Check out the details they gave us [here](https://docs.google.com/spreadsheets/d/1UEmU\_guk1gGqGc8vTHQxs3kiRMDz8pdvJffKAxFImT0/edit?usp=sharing)!
+We reached out to librarians and asked them what their busiest hours are and what events they host in an attempt to leverage the libraries. This data can be used to help strategize the best time and location to do this type of research. Check out the details they gave us [here](https://docs.google.com/spreadsheets/d/1UEmU\_guk1gGqGc8vTHQxs3kiRMDz8pdvJffKAxFImT0/edit?usp=sharing)!
 
 #### Setting up a table at the library
 
