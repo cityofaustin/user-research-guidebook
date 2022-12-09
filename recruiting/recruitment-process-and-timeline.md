@@ -29,7 +29,7 @@ Here is an example of some of the research questions we identified before conduc
 
 1. Can people tell where to start looking for the answer in the new interface?
 2. Do users understand how staring works? Is it useful? What is their impression?
-3. How would users interact with checkmarks? Are the checkmarks helpful?
+3. How would users interact with checkmarks? Are they checkmarks helpful?
 
 ### **Deadline**
 
@@ -39,7 +39,9 @@ Identify the date that you would like user research to be completed.
 
 The methodology you choose should be determined by your research goals and questions.
 
-Are you performing user observations? Conducting user interviews or perhaps doing usability testing?
+Are you performing user observations?
+
+Conducting user interviews or perhaps doing usability testing?
 
 ### Total number of Participants
 
