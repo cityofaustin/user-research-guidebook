@@ -1,6 +1,6 @@
 # Table of contents
 
-* [User Research at the City of Austin](README.md)
+* [Usability Research & Testing at the City of Austin](README.md)
 * [Research Planning](research-planning-draft/README.md)
   * [Project Brief](research-planning-draft/create-a-research-plan-draft.md)
     * [Project Brief Template](research-planning-draft/create-a-research-plan-draft/project-brief-template.md)
