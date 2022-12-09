@@ -23,7 +23,7 @@
       * [Usability Template](research-methods-draft/ready-for-advanced-tools/usability-testing-draft/usability-template.md)
       * [Usability Testing Checklists](research-methods-draft/ready-for-advanced-tools/usability-testing-draft/usability-testing-checklists.md)
     * [A/B Testing](research-methods-draft/ready-for-advanced-tools/a-b-testing.md)
-  * [Multivarient Testing](research-methods-draft/multivarient-testing.md)
+    * [Multivarient Testing](research-methods-draft/ready-for-advanced-tools/multivarient-testing.md)
   * [Testing Content](the-city-of-austin-research-methods/testing-content-draft.md)
     * [Testing Translated Content](the-city-of-austin-research-methods/language-user-research-and-testing.md)
 * [Recruiting](recruiting-draft/README.md)
