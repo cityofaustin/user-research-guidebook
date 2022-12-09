@@ -2,7 +2,7 @@
 
 ### **What is it**
 
-Identify usability problems that need to be addressed. Usability can refer to many things - is it easy to use, is it logical, does it makes sense, can people find what they need to complete the task they want to complete, and many more. Think Aloud is often a method used during usability testing.
+Identify any usability problems that needs to be addressed. Usability can refer to many things - is it easy to use, is it logical, does it makes sense, can people find what they need to complete the task they want to complete, and many more. Think out Loud is often a method used during usability testing.
 
 ### Why Should I use it
 

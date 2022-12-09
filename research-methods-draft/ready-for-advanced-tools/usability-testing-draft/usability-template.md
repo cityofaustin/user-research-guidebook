@@ -26,7 +26,7 @@ description: >-
 
 **Test Methods**
 
-Who are the participants in this usability test and how many?
+
 
 * Who are the participants in this usability test and how many?
 * What kinds of tools is being tested and used**?**
