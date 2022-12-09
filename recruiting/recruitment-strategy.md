@@ -6,25 +6,23 @@ Our goal is to get access to people that have gone through or have appropriate i
 
 ### General Recruitment
 
-We are continually building up a database of potential research participants who are eager to share their experiences. We created a screener survey in English and Spanish  as a way to easily recruit and organize participants.
+We are continually building up a database of potential research participants who are eager to share their experiences. We created a screener survey in English and Spanish as a way to easily recruit and organize participants.
 
-We promote that screener through various social media channels, medium posts, and at community events. We are currently in the process of developing a more robust participant engagement plan and will document what works well.
+We promote the screener through various social media channels, medium posts, and at community events.&#x20;
 
-We use this database of participants when we are testing tools or solutions that are intended to serve the Austin residents as a whole. There are times we need to understand more about our potential participants experiences and backgrounds before we can determine if they are a good match for a particular research session. We send out a short question screener to the whole database when we need this understanding.
+We use this database of participants when we are testing tools or solutions that are intended to serve the Austin residents as a whole.&#x20;
+
+There are times we need to understand more about our potential participants' experiences and backgrounds before we can determine if they are a good match for a particular research session. We send out a short question screener to the whole database when we need this understanding.
 
 ### Targeted Recruitment
 
-Often we are looking for participants who have had very specific experiences. As an example: we recently did usability testing for a new content type for complex non-linear processes. We populated our prototype with the instructions to get a Food Truck Permit this is the case. We needed individuals who had gone through the Food Truck Permitting process to participate in a usability test because the content in the prototype was specific.
+Often we are looking for participants who have had very specific experiences. As an example: we did usability testing for a new content type for complex non-linear processes. We populated our prototype with the instructions to get a Food Truck Permit, which is the use case. We needed individuals who had gone through the Food Truck Permitting process to participate in a usability test because the content in the prototype was specific.
 
 We sent out targeted emails to Food Truck owners to recruit those individuals.
 
-### Vulnerable Populations Participant Recruiting (DRAFT)
-
-
-
 ### Community Involvement
 
-We engage with diverse types of community groups knowing that they are key to engaging with a variety of Austin residents. This process can include inviting them to our offices and talking to them about what we are doing and how we approach our work. These visits enable allow us to get their understanding and trust in what we are doing. Attending community group meetings and events is a way to get connected to a variety of residents.
+We engage with diverse types of community groups because they are key to engaging with a variety of Austin residents. This process can include inviting them to our offices and talking to them about what we are doing and how we approach our work. These visits enable allow us to get their understanding and trust in what we are doing. Attending community group meetings and events is a way to get connected to a variety of residents.
 
 We also work hand in hand with communications and public engagement office at the City of Austin. We rely on them for social media campaigns and involving a diverse group of residents in research.
 
@@ -32,7 +30,7 @@ We also work hand in hand with communications and public engagement office at th
 
 We always make it a point to ask for referrals from residents who have participated in research with us. Asking for referrals is especially effective when we need to do research with specific types of people.
 
-Recently the City of Austin needed to interview foster parents. Once we were able to get an interview with one foster parent, we asked them for a referral. We got this email in response:
+For example, the City of Austin needed to interview foster parents. Once we were able to get an interview with one foster parent, we asked them for a referral. We got this email in response:
 
 > Hi Alex,
 >
@@ -40,10 +38,9 @@ Recently the City of Austin needed to interview foster parents. Once we were abl
 >
 > If it's alright to post the info, what information would you prefer to be posted? Just your email addresses or also include phone numbers?
 >
-> Thanks,
-> Jennifer Smith
+> Thanks, Jennifer Smith
 
-We send over copy groups can clearly and easily communicate what we are looking for when groups are willing to post to social media or listservs. We sent the following:
+We send over a copy to groups so they can clearly and easily communicate what we are looking for when groups are willing to post to social media or listservs. We sent the following:
 
 > Hi Jennifer,
 >
@@ -51,11 +48,10 @@ We send over copy groups can clearly and easily communicate what we are looking 
 >
 > "This morning I participated in a design research session with the City of Austin about the foster home inspection process. They are conducting research as an effort to improve the process. The session was an interview that took about 45 minutes and I received a **$40 gift card from HEB** for my time. They are looking for a few more foster families who have been through the inspection process to interview.
 >
-> If you are interested you can email, text or call Kristin Taylor: Kristin.Taylor@austintexas.gov
-> 512-888-8888
+> If you are interested you can email, text or call Kristin Taylor: Kristin.Taylor@austintexas.gov 512-888-8888
 >
 > Thanks again!
 >
 > Kristin Taylor
 
-We were able to quickly schedule interviews with qualified participants aftee Jennifer made this referral. Without her referral, we would have likely had to delay the project.
+We were able to quickly schedule interviews with qualified participants after Jennifer made this referral. Without her referral, we would have likely had to delay the project.
