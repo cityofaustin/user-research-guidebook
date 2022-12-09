@@ -9,9 +9,9 @@ description: >-
 ## Keep an Open Mind
 
 * Come in with fresh eyes: Treat every test as a brand new learning opportunity Even if you have been working in this field or have worked on this idea for a long time.&#x20;
-* Do not bring personal biases: Leave your assumptions and biases behind so you have an unfiltered mind learn new information instead of automatically rejecting the information.
+* Do not bring personal biases: Leave your assumptions and biases behind so you have an unfiltered mind and can learn new information instead of automatically rejecting the information.
 
-## Designate Roles Before&#x20;
+## Designate Roles Beforehand&#x20;
 
 ## Be Curious and Listen to Participants
 
@@ -24,7 +24,7 @@ description: >-
 
 ## Always Document
 
-* Take notes verbatim, as much direct quotes as possible. We will synthesize later
+* Take notes verbatim, as much direct quotes as possible. Synthesize later
 * Take as many photos/audio/video as you can.  Ensure you ask for permission in the beginning.
 
 ## What to Bring&#x20;
