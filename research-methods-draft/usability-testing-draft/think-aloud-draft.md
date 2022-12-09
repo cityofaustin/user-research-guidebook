@@ -24,7 +24,7 @@ Sample Discussion Guide:&#x20;
 
 > Thank you for agreeing to take part in our testing. We will be conducting a think aloud test, which means we’ll have you review our prototype and say what you’re thinking aloud. I’ll sit back and listen so you can tell me what you see, what you’re doing and why, anything you’re not sure you understand, any problems that you’re having, what you like, don’t like, etc. Don’t hesitate to tell me whatever is going through your mind. If you reach a roadblock–that’s ok. That will help us improve the prototype. I can’t help you work through those roadblocks because I don’t want to interrupt your train of thought nor do I want to skew the test results. I’ll just ask you to “keep going as if I wasn’t here and keep talking”.
 
-**Optional:** Incorporate a Goal or Task We’ll give you a set of goals to complete to help us learn about what works and what doesn’t work.
+**Optional:** Incorporate a Goal or Task. We’ll give you a set of goals to complete to help us learn about what works and what doesn’t work.
 
 **Length of time per test**
 
