@@ -2,7 +2,7 @@
 
 ### **What is it**
 
-Place your prototype in a real world scenarios and stand back to observe how people interact, respond, and feel about it.
+Place your prototype in a real world scenario and stand back to observe how people interact, respond, and feel about it.
 
 ### Why Should I use it
 
