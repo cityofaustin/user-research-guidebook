@@ -26,10 +26,8 @@ description: >-
 
 **Test Methods**
 
-
-
 * Who are the participants in this usability test and how many?
-* What kinds of tools is being tested and used**?**
+* What kinds of tools is being tested and used?
 
 **Test Metrics**
 
@@ -43,7 +41,7 @@ description: >-
 
 #### Use Case
 
-* What are the tasks that users are expected to carry out in using the technology product?
+* What are the tasks users are expected to carry out in using the technology product?
 
 {% hint style="info" %}
 Usability.gov has a [template of a usability testing plan available for download](https://www.usability.gov/sites/default/files/usability-test-plan.docx).&#x20;
@@ -70,7 +68,7 @@ Based on the use cases identified, break them down into concrete tasks that can 
 >   * Check to see if the draft looks good in IE, Chrome, and Firefox
 >   * Get the published link to put in an email
 > * **Task: View analytics**&#x20;
->   * Check to see the number of views on a news item/article.&#x20;
+>   * Check to see the number of views on a news item/article
 >   * Share the analytics with your colleague who is not on the Intranet
 > * **Task: Scheduling**
 >   * Create an event or news item about time-sheets due and schedule it for three days from now
