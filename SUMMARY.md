@@ -39,7 +39,7 @@
   * [Baseline Metrics](measurement-types-draft/baseline-metrics.md)
   * [Quantitative Metrics](measurement-types-draft/quantitative-metrics.md)
   * [Qualitative Metrics](measurement-types-draft/qualitative-metrics.md)
-* [Scheduling for Researchers](research-planning/scheduling.md)
+* [Scheduling Researchers](research-planning/scheduling.md)
 * [Preparing for Your Research Session](what-to-take-to-my-research-session/README.md)
 * [Communicating with participate](participant-communication-draft/README.md)
   * [Scheduling Research Session](templates/scheduling-research-session.md)
