@@ -1,6 +1,6 @@
 # Recruiting based on personas
 
-We also developed some resident personas that we may want to conduct specific research around in the future. For that reason we also ask residents if any of the follow statements describe them:
+We also developed some resident personas that we may want to conduct specific research around in the future. For that reason we also ask residents if any of the following statements describe them:
 
 * I am a senior
 * I have a disability
