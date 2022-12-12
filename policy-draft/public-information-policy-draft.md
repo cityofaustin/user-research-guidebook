@@ -2,7 +2,7 @@
 
 ### What is it & why should I use it?&#x20;
 
-The Texas Public Information Act gives the public the right to access government records, and the public information officer may not ask why they want them. All government information is presumed to be available to the public, with certain exceptions.
+The Texas Public Information Act gives the public the right to access government records. All government information is presumed to be available to the public, with certain exceptions.
 
 ### How do I use it?&#x20;
 

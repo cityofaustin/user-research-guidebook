@@ -1,11 +1,11 @@
 ---
 description: >-
-  In the case the person conducting research is not the one scheduling, it is
-  important to have a process that works for everyone. This page outlines the
+  In the case that the person conducting research is not the one scheduling, it
+  is important to have a process that works for everyone. This page outlines our
   current process.
 ---
 
-# Scheduling Researchers
+# Scheduling for Researchers
 
 #### Step 1
 
@@ -15,11 +15,15 @@ Have a clear understanding of the timeframe and requirements of the research bef
 
 Contact the people who should be at a research sessions to determine availability for research. Make a variety of times available. Some early in the day, some mid-day and some in the afternoon or evening, such as:
 
+Contact the people who should be at a research sessions to determine availability for research. Make a variety of times available. Some early in the day, some mid-day and some in the afternoon or evening, such as:
+
 * Tuesday, June 12th from 8:00am to 1:00pm
 * Wednesday, June 13th from 11:00am to 4:00pm
 * Friday, June 15th from 3:00pm to 6:30pm
 
 #### Step 3
+
+Send a calendar placeholder to participants. This prevents them from scheduling meetings or events during the times you are offering.
 
 Send a calendar placeholder to participants. This prevents them from scheduling meetings or events during the times you are offering.
 
@@ -33,8 +37,12 @@ Offer those times to all the participants who responded with interest. See how w
 
 Create a calendar invite for the session when participants accept a research session time. Include the participants name, the location of the session, any notes they might need.
 
+Create a calendar invite for the session when participants accept a research session time. Include the participants name, the location of the session, any notes they might need.
+
 ![Calendar invite for scheduled research session](../.gitbook/assets/screen-shot-2019-07-12-at-7.49.28-pm.png)
 
 #### Step 6
+
+Clear the holds from the researchers calendars when the research is scheduled.
 
 Clear the holds from the researchers calendars when the research is scheduled.
